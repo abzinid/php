@@ -23,7 +23,9 @@ The site, including the nav menu, would be styled using CSS in the external styl
             </figcaption>
         </figure>
     </header>
-
+<!-- BEGIN mynav.php INCLUDE -->
+<?php include "./mynav.php"; ?>
+<!-- END mynav.php INCLUDE -->
     <main>
         <div></div>  <!-- Use whatever tags are appropriate for content. -->
     </main>
